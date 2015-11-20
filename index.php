@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Bienvenido a Heroku desde PHP</h1>
+	<h2>Cambio</h2>
 </body>
 </html>
